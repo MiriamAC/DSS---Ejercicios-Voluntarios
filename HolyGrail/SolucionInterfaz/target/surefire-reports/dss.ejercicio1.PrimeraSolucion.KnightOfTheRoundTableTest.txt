@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dss.ejercicio1.PrimeraSolucion.KnightOfTheRoundTableTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.05 s - in dss.ejercicio1.PrimeraSolucion.KnightOfTheRoundTableTest
